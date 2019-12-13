@@ -26,11 +26,11 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-ReactJs is a library thta allow us to use and reuse code such as function components. This is great for any app with state that chenges a lot
+ReactJs is a library that allow us to use and reuse code such as function components. This is great for any app with state that changes a lot
 
 - [ ] What does it mean to _think_ in react?
 
-Its means to break down the steps to build the apps / product.
+It means to break down the steps to build the apps / product.
 
 - [ ] Describe state.
 
