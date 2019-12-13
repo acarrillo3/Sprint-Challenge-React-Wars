@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+ReactJs is a library thta allow us to use and reuse code such as function components. This is great for any app with state that chenges a lot
+
 - [ ] What does it mean to _think_ in react?
+
+Its means to break down the steps to build the apps / product.
 
 - [ ] Describe state.
 
+state is an object that represents the parts of the app that can change. Each component can maintain its own state
+
 - [ ] Describe props.
 
+Properties allows for components to be customized when they are created with different parameters.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+They let you use state and other React features without writing a class by using Effect Hook  and then using the useEffect function 
 
 ## Project Set Up
 
